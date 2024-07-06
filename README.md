@@ -33,7 +33,7 @@ Hydroponics Automation System is an automated hydroponics control system that us
 - Relay Module (controls fan and light)
 
 ## System Diagram
-![System Diagram](path/to/system/diagram)
+![System Diagram](https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/System%20Diagram.png)
 <p align="center">
   <img src="https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/System%20Diagram.png" alt="System Diagram" />
 </p>

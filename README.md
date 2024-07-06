@@ -34,6 +34,9 @@ Hydroponics Automation System is an automated hydroponics control system that us
 
 ## System Diagram
 ![System Diagram](path/to/system/diagram)
+<p align="center">
+  <img src="https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/System%20Diagram.png" alt="System Diagram" />
+</p>
 
 ## Flowchart
 ![Flowchart](path/to/flowchart)

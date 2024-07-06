@@ -3,20 +3,6 @@
 ## Project Description
 Hydroponics Automation System is an automated hydroponics control system that uses various sensors to monitor and control environmental conditions such as humidity, temperature, light, and water levels. This system also integrates with Firebase for data storage and sends notifications through Line Notify.
 
-## Table of Contents
-- [Key Features](#key-features)
-- [Hardware Used](#hardware-used)
-- [System Diagram](#system-diagram)
-- [Flowchart](#flowchart)
-- [Wiring Diagram](#wiring-diagram)
-- [Installation and Usage](#installation-and-usage)
-  - [Hardware Setup](#hardware-setup)
-  - [Software Setup](#software-setup)
-- [Usage](#usage)
-- [Additional Information](#additional-information)
-- [License](#license)
-- [Contact](#contact)
-
 ## Key Features
 - **Environment Monitoring and Control**: Monitors humidity, temperature, light intensity, and water levels using various sensors.
 - **Firebase Integration**: Stores sensor data in Firebase Realtime Database and Firestore.
@@ -33,16 +19,20 @@ Hydroponics Automation System is an automated hydroponics control system that us
 - Relay Module (controls fan and light)
 
 ## System Diagram
-![System Diagram](https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/System%20Diagram.png)
 <p align="center">
   <img src="https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/System%20Diagram.png" alt="System Diagram" />
 </p>
 
 ## Flowchart
-![Flowchart](path/to/flowchart)
-
-## Wiring Diagram
-![Wiring Diagram](path/to/wiring/diagram)
+<p align="center">
+  <img src="https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/Main.png" alt="Main" />
+</p>
+<p align="center">
+  <img src="https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/Setup.png" alt="Setup" />
+</p>
+<p align="center">
+  <img src="https://github.com/zacntk/Hydroponics-Automation-System/blob/main/Images/Loop.png" alt="Loop" />
+</p>
 
 ## Installation and Usage
 ### Hardware Setup
@@ -72,10 +62,3 @@ Hydroponics Automation System is an automated hydroponics control system that us
 1. Upon startup, the system will attempt to connect to the configured WiFi network.
 2. Once connected, the system will start collecting data and controlling the environment based on the set parameters.
 3. You can monitor and control the system via Firebase and receive notifications through Line Notify.
-
-## Contact
-If you have any questions or concerns, feel free to contact [your-email@example.com]
-
----
-
-![Footer Image](path/to/footer/image)

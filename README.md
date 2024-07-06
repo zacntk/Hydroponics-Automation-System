@@ -1,7 +1,23 @@
 # Hydroponics Automation System
 
+![Project Banner](path/to/banner/image)
+
 ## Project Description
 Hydroponics Automation System is an automated hydroponics control system that uses various sensors to monitor and control environmental conditions such as humidity, temperature, light, and water levels. This system also integrates with Firebase for data storage and sends notifications through Line Notify.
+
+## Table of Contents
+- [Key Features](#key-features)
+- [Hardware Used](#hardware-used)
+- [System Diagram](#system-diagram)
+- [Flowchart](#flowchart)
+- [Wiring Diagram](#wiring-diagram)
+- [Installation and Usage](#installation-and-usage)
+  - [Hardware Setup](#hardware-setup)
+  - [Software Setup](#software-setup)
+- [Usage](#usage)
+- [Additional Information](#additional-information)
+- [License](#license)
+- [Contact](#contact)
 
 ## Key Features
 - **Environment Monitoring and Control**: Monitors humidity, temperature, light intensity, and water levels using various sensors.
@@ -17,6 +33,15 @@ Hydroponics Automation System is an automated hydroponics control system that us
 - RS485 (measures nitrogen, phosphorus, and potassium levels)
 - LCD Display
 - Relay Module (controls fan and light)
+
+## System Diagram
+![System Diagram](path/to/system/diagram)
+
+## Flowchart
+![Flowchart](path/to/flowchart)
+
+## Wiring Diagram
+![Wiring Diagram](path/to/wiring/diagram)
 
 ## Installation and Usage
 ### Hardware Setup
@@ -57,3 +82,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 If you have any questions or concerns, feel free to contact [your-email@example.com]
+
+---
+
+![Footer Image](path/to/footer/image)

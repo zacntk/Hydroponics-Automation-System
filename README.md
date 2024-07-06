@@ -1,7 +1,5 @@
 # Hydroponics Automation System
 
-![Project Banner](path/to/banner/image)
-
 ## Project Description
 Hydroponics Automation System is an automated hydroponics control system that uses various sensors to monitor and control environmental conditions such as humidity, temperature, light, and water levels. This system also integrates with Firebase for data storage and sends notifications through Line Notify.
 
@@ -71,14 +69,6 @@ Hydroponics Automation System is an automated hydroponics control system that us
 1. Upon startup, the system will attempt to connect to the configured WiFi network.
 2. Once connected, the system will start collecting data and controlling the environment based on the set parameters.
 3. You can monitor and control the system via Firebase and receive notifications through Line Notify.
-
-## Additional Information
-- This project uses [Firebase ESP Client](https://github.com/mobizt/Firebase-ESP-Client) for Firebase connectivity.
-- This project uses [NTPClient](https://github.com/arduino-libraries/NTPClient) for syncing time from an NTP server.
-- You can customize various settings in the code according to your needs.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
 If you have any questions or concerns, feel free to contact [your-email@example.com]
